@@ -2,11 +2,11 @@
 Sou o Ruan, moro em São Paulo e atualmente estou cursando Análise e Desvolvimento de Sistemas 2/4,
 sempre curti design e a programação veio como ferramenta para dar vida às minhas ideias e permitir uma interação mais imersa de todos elementos que eu queira botar na tela.
 
-<img src="[https://readyplayer.me/gallery/63f156f63cade24b0334e53f-wZDkCNjpeg](https://readyplayerme-photobooth.s3.amazonaws.com/63f156f63cade24b0334e53f/wZDkCN.jpeg)">
+<img src="https://readyplayerme-photobooth.s3.amazonaws.com/63f156f63cade24b0334e53f/wZDkCN.jpeg">
 
 
 ## 💻Tecnologia e Ferramentas:
-<div style="display: flex">
+<div style="display: flex; gap: 2rem;">
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
@@ -17,7 +17,7 @@ sempre curti design e a programação veio como ferramenta para dar vida às min
 </div>
 
 ## 🔎 Aprendendo
-<div style="display: flex">
+<div style="display: flex; gap: 2rem;">
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />    
 
@@ -30,6 +30,6 @@ sempre curti design e a programação veio como ferramenta para dar vida às min
 
 <div>
 <a href="https://github.com/helloWorldRuan">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helloWorldRuani&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=helloWorldRuan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>

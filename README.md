@@ -1,10 +1,14 @@
 ### Fala Devs 👩‍💻, 
-Sou o Ruan, moro em São Paulo e atualmente estou cursando Análise e Desvolvimento de Sistemas 2/4,
+Tenho 18 anos, moro em São Paulo e atualmente estou cursando Análise e Desvolvimento de Sistemas 2/4,
 sempre curti design e a programação veio como ferramenta para dar vida às minhas ideias e permitir uma interação mais imersa de todos elementos que eu queira botar na tela.
 
 <div style="width: 100%; text-align: center;">
   <img src="https://readyplayerme-photobooth.s3.amazonaws.com/63f156f63cade24b0334e53f/wZDkCN.jpeg">
 </div>
+
+🎸 Minha vida é à base de música, para todos momentos existe uma trilha sonora. Programar é bom, com música melhor ainda.
+
+
 
 
 ## 💻Tecnologia e Ferramentas:
@@ -32,6 +36,6 @@ sempre curti design e a programação veio como ferramenta para dar vida às min
 
 <div style="display: flex>
   <a href="https://github.com/helloWorldRuan">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helloWorldRuan&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=helloWorldRuan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helloWorldRuan&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=helloWorldRuan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>

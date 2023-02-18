@@ -2,21 +2,24 @@
 Sou o Ruan, moro em São Paulo e atualmente estou cursando Análise e Desvolvimento de Sistemas 2/4,
 sempre curti design e a programação veio como ferramenta para dar vida às minhas ideias e permitir uma interação mais imersa de todos elementos que eu queira botar na tela.
 
-<img src="https://readyplayer.me/gallery/63f156f63cade24b0334e53f-wZDkCNjpeg">
+<img src="[https://readyplayer.me/gallery/63f156f63cade24b0334e53f-wZDkCNjpeg](https://readyplayerme-photobooth.s3.amazonaws.com/63f156f63cade24b0334e53f/wZDkCN.jpeg)">
 
 
 ## 💻Tecnologia e Ferramentas:
+<div style="display: flex">
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img width="50px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
+</div>
 
 ## 🔎 Aprendendo
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />    
+<div style="display: flex">
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />    
 
 ## Contatos:
 <div>

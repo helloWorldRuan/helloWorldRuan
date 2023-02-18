@@ -42,4 +42,4 @@ sempre curti design e a programação veio como ferramenta para dar vida às min
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=helloWorldRuan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/helloWorldRuan/helloWorldRuan/blob/output/github-contribution-grid-snake.svg)

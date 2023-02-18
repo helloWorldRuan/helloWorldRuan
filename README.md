@@ -3,14 +3,14 @@ Tenho 18 anos, moro em São Paulo e atualmente estou cursando Análise e Desvolv
 sempre curti design e a programação veio como ferramenta para dar vida às minhas ideias e permitir uma interação mais imersa de todos elementos que eu queira botar na tela.
 
 <div style="width: 100%; display: flex;">
-  <div>
-    🎸 Minha vida é à base de música, para todos momentos existe uma trilha sonora. Programar é bom, com música melhor ainda.
-
-    🎨 O design foi uma base muito importante para minha afeição com o front-end.
-  </div>
-  
-  <img width="200px" src="https://api.readyplayer.me/v1/avatars/63f156f63cade24b0334e53f.png?cacheControl=true&uat=2023-02-18T23:43:52.083Z">
+  <img width="500px" src="https://api.readyplayer.me/v1/avatars/63f156f63cade24b0334e53f.png?cacheControl=true&uat=2023-02-18T23:43:52.083Z">
 </div>
+
+
+🎸 Minha vida é à base de música, para todos momentos existe uma trilha sonora. Programar é bom, com música melhor ainda.
+
+🎨 O design foi uma base muito importante para minha afeição com o front-end.
+
 
 ## 💻Tecnologia e Ferramentas:
 <div style="display: flex; gap: 5rem;">

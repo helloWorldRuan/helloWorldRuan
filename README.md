@@ -2,7 +2,7 @@
 Tenho 18 anos, moro em São Paulo e atualmente estou cursando Análise e Desvolvimento de Sistemas 2/4,
 sempre curti design e a programação veio como ferramenta para dar vida às minhas ideias.
 
-<div align="center">
+<div style="display: inline_block">
   🎸 Minha vida é à base de música, para todos momentos existe uma trilha sonora. Programar é bom, com música melhor ainda.
 
   🎨 O design foi uma base muito importante para minha afeição com o front-end.

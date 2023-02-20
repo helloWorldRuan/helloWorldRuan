@@ -44,4 +44,4 @@ São Paulo Tech School, a faculdade incentiva o meu crescimento que propôs gran
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=helloWorldRuan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-![Snake animation](https://github.com/helloWorldRuan/helloWorldRuan/blob/output/github-contribution-grid-snake.svg)
+![snake.gif](https://github.com/helloWorldRuan/helloWorldRuan/blob/output/github-contribution-grid-snake.svg)

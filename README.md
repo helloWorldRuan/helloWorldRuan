@@ -4,7 +4,7 @@ sempre curti design e a programação veio como ferramenta para dar vida às min
 Com foco em front-end, estou estudano AngularJS e Typescrpit, mas já desenvolvi site usando React, ferramenta em prentendo me aprimorar posteriormente.
 São Paulo Tech School, a faculdade incentiva o meu crescimento que propôs grandes desafios e projetos que você pode conferir nos repositórios abaixo.
 
-<div style="width: 100%; display: flex;">
+<div align="center">
   <img width="500px" src="https://api.readyplayer.me/v1/avatars/63f156f63cade24b0334e53f.png?cacheControl=true&uat=2023-02-18T23:43:52.083Z">
 </div>
 
@@ -19,7 +19,7 @@ São Paulo Tech School, a faculdade incentiva o meu crescimento que propôs gran
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-  <img width="50px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
@@ -38,10 +38,10 @@ São Paulo Tech School, a faculdade incentiva o meu crescimento que propôs gran
 </div>
   
 ## Estatísticas:
-<div style="display: flex>
+<div align="center">
   <a href="https://github.com/helloWorldRuan">
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helloWorldRuan&layout=compact&langs_count=7&theme=dracula"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=helloWorldRuan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-![snake.gif](https://github.com/helloWorldRuan/helloWorldRuan/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/leobr1t0/leobr1t0/blob/output/github-contribution-grid-snake.svg)

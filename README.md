@@ -1,4 +1,4 @@
-### Fala Devs 👩‍💻, 
+### Fala Devs 👩‍💻, me chamo Ruan!
 Tenho 18 anos, moro em São Paulo e atualmente estou cursando Análise e Desvolvimento de Sistemas 2/4,
 sempre curti design e a programação veio como ferramenta para dar vida às minhas ideias.
 

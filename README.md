@@ -5,7 +5,7 @@ sempre curti design e a programação veio como ferramenta para dar vida às min
 <div style="display: inline_block">
   🎸 Minha vida é à base de música, para todos momentos existe uma trilha sonora. Programar é bom, com música melhor ainda.
 
-  🎨 O design foi uma base muito importante para minha afeição com o front-end.
+  🎨 O design foi uma base muito importante para minha minhas aventuras com o front-end.
   <img  align="right" width="300px" src="https://api.readyplayer.me/v1/avatars/63f156f63cade24b0334e53f.png?cacheControl=true&uat=2023-02-18T23:43:52.083Z">
 </div>
 

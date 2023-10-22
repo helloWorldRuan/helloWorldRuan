@@ -1,11 +1,10 @@
 ### Fala Devs 👩‍💻, me chamo Ruan!
-Tenho 19 anos, moro em São Paulo e atualmente estou cursando Análise e Desvolvimento de Sistemas 2/4,
-sempre curti design e a programação veio como ferramenta para dar vida às minhas ideias.
+🚀 Com 19 anos e base em São Paulo, sou um estudante de Análise e Desenvolvimento de Sistemas, combinando pixels e códigos para transformar ideias em interfaces incríveis.
 
 <div style="display: inline_block">
-  🎸 Minha vida é à base de música, para todos momentos existe uma trilha sonora. Programar é bom, com música melhor ainda.
+  🎵 A música é a trilha sonora constante do meu processo criativo, tornando a programação uma dança de inovação.
 
-  🎨 O design foi uma base muito importante para minha minhas aventuras com o front-end.
+  💡 O design é minha base sólida para criar experiências no front-end.
   <img  align="right" width="300px" src="https://api.readyplayer.me/v1/avatars/63f156f63cade24b0334e53f.png?cacheControl=true&uat=2023-02-18T23:43:52.083Z">
 </div>
 

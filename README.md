@@ -1,13 +1,4 @@
 ### Fala Devs 👩‍💻, me chamo Ruan!
-🚀 Com 19 anos e base em São Paulo, sou um estudante de Análise e Desenvolvimento de Sistemas, combinando pixels e códigos para transformar ideias em interfaces incríveis.
-
-<div style="display: inline_block">
-  🎵 A música é a trilha sonora constante do meu processo criativo, tornando a programação uma dança de inovação.
-
-  💡 O design é minha base sólida para criar experiências no front-end.
-  <img  align="right" width="300px" src="https://api.readyplayer.me/v1/avatars/63f156f63cade24b0334e53f.png?cacheControl=true&uat=2023-02-18T23:43:52.083Z">
-</div>
-
 
 ## 💻Tecnologia e Ferramentas:
 <div style="display: flex; gap: 5rem;">

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/helloWorldRuan/helloWorldRuan/main/dark.svg" width="100%" alt="Ruan C. Rodrigues - Perfil de Engenharia">
+  <img src="https://github.com/helloWorldRuan/helloWorldRuan/blob/main/dark.svg?raw=true" width="100%" alt="Ruan C. Rodrigues - Perfil de Engenharia">
 </p>
 
 Olá, sou Ruan C. Rodrigues. Desenvolvo sistemas front-end escaláveis, fluxos de automação e aplicações web de produção para o mercado financeiro. Meu foco de engenharia está na interseção entre arquitetura robusta de UI, Micro Frontends (MFEs), TypeScript e ambientes de alta performance com React e Angular.
@@ -44,19 +44,8 @@ Solução corporativa mitigadora de gargalos em estações de trabalho de baixa 
 
 <br/>
 
-### 📊 Atividade e Estatísticas
+### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <a href="https://github.com/helloWorldRuan">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=helloWorldRuan&show_icons=true&theme=dracula&locale=pt-br&hide_border=true&bg_color=0D1117" alt="Estatísticas do Ruan"/>
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helloWorldRuan&layout=compact&langs_count=6&theme=dracula&hide_border=true&bg_color=0D1117" alt="Top Linguagens"/>
-  </a>
+  <img src="https://gh-readme-profile.vercel.app/api?username=helloWorldRuan&hide=forks,prs_merged,issues,contributed" alt="Estatísticas do Ruan">
 </div>
-
-<br/>
-
-<h3 align="center">🐍 Mapa de Contribuições</h3>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/helloWorldRuan/github-snake/output/github-snake-dark.svg" alt="Cobrinha de Contribuições do GitHub" width="100%"/>
-</p>

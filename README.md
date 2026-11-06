@@ -1,8 +1,8 @@
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./light.svg">
-    <img alt="Ruan C. Rodrigues - Professional Engineer Profile" src="./dark.svg">
+ <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/helloWorldRuan/helloWorldRuan/main/dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/helloWorldRuan/helloWorldRuan/main/light.svg">
+    <img alt="Ruan C. Rodrigues - Professional Engineer Profile" src="https://raw.githubusercontent.com/helloWorldRuan/helloWorldRuan/main/dark.svg" width="100%">
   </picture>
 </p>
 

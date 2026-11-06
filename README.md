@@ -1,9 +1,9 @@
 <p align="center">
- <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/helloWorldRuan/helloWorldRuan@main/dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/helloWorldRuan/helloWorldRuan@main/light.svg">
-    <img alt="Ruan C. Rodrigues - Perfil de Engenharia" src="https://cdn.jsdelivr.net/gh/helloWorldRuan/helloWorldRuan@main/dark.svg" width="100%">
-  </picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./light.svg">
+  <img alt="Ruan C. Rodrigues - Perfil de Engenharia" src="./light.svg">
+</picture>
 </p>
 
 Olá, sou Ruan C. Rodrigues. Desenvolvo sistemas front-end escaláveis, fluxos de automação e aplicações web de produção para o mercado financeiro. Meu foco de engenharia está na interseção entre arquitetura robusta de UI, Micro Frontends (MFEs), TypeScript e ambientes de alta performance com React e Angular.

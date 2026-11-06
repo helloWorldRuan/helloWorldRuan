@@ -17,7 +17,6 @@
 <br/>
 
 ## 👨‍💻 Sobre mim
-
 - 🏢 **Engenheiro de Software Front-end** com sólida bagagem na engenharia de aplicações do **mercado financeiro** (Itaú Unibanco).
 - ⚙️ Especialista no ecossistema **React, Next.js e Angular**, atuando na construção de arquiteturas escaláveis e **Micro Frontends (MFEs)**.
 - 🚀 Focado em performance (SSR), integração de APIs complexas e **qualidade de código** (testes automatizados com Jest e Clean Code).
@@ -26,22 +25,10 @@
 
 ## 🛠️ Tecnologias e Ferramentas
 
-### 💻 Front-end & Linguagens
-<div style="display: flex; gap: 15px; margin-top: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript" title="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="45" height="45" alt="React" title="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45" height="45" alt="Next.js" title="Next.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="45" height="45" alt="Angular" title="Angular"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45" alt="Tailwind CSS" title="Tailwind CSS"/>
-</div>
-
-### ⚙️ Arquitetura, Cloud & Ferramentas
-<div style="display: flex; gap: 15px; margin-top: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="45" height="45" alt="Jest" title="Jest"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45" height="45" alt="AWS" title="AWS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git" title="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" height="45" alt="Figma" title="Figma"/>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,angular,tailwind,jest,aws,git,figma&theme=dark" alt="Minha Stack" />
+  </a>
 </div>
 
 ---
@@ -50,7 +37,7 @@
 
 <div align="center">
   <a href="https://github.com/helloWorldRuan">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=helloWorldRuan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do Ruan"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=helloWorldRuan&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br" alt="Estatísticas do Ruan"/>
     <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helloWorldRuan&layout=compact&langs_count=6&theme=dracula" alt="Top Linguagens"/>
   </a>
 </div>

@@ -1,0 +1,113 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1180 610" width="1180" height="610">
+  <defs>
+    <radialGradient id="bgGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#0F172A" />
+      <stop offset="100%" stop-color="#030712" />
+    </radialGradient>
+    <filter id="glass">
+      <feGaussianBlur stdDeviation="4" result="blur" />
+      <feComponentTransfer>
+        <feFuncA type="linear" slope="0.5" />
+      </feComponentTransfer>
+      <feMerge>
+        <feMergeNode />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1180" height="610" fill="url(#bgGlow)" rx="24" />
+  
+  <!-- Subtle Grid -->
+  <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+    <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#FFFFFF" stroke-opacity="0.03" stroke-width="1" />
+  </pattern>
+  <rect width="1180" height="610" fill="url(#grid)" rx="24" />
+
+  <!-- LEFT PANEL (Visual / Identity) -->
+  <g transform="translate(40, 40)">
+    <rect width="400" height="530" fill="#0F172A" fill-opacity="0.25" stroke="#FFFFFF" stroke-opacity="0.1" rx="16" filter="url(#glass)" />
+    
+    <!-- Mac controls -->
+    <circle cx="30" cy="30" r="6" fill="#EF4444" />
+    <circle cx="50" cy="30" r="6" fill="#F59E0B" />
+    <circle cx="70" cy="30" r="6" fill="#10B981" />
+    <text x="95" y="34" fill="#94A3B8" font-family="monospace" font-size="12">ruan@dev:~ [ ONLINE ]</text>
+
+    <!-- ASCII Identity -->
+    <g transform="translate(40, 100)" font-family="monospace" font-size="10" fill="#22D3EE" font-weight="bold">
+      <text x="0" y="0">      :::::::::  :::    :::     :::     ::::    ::: </text>
+      <text x="0" y="15">     :+:    :+: :+:    :+:   :+: :+:   :+:+:   :+:  </text>
+      <text x="0" y="30">    +:+    +:+ +:+    +:+  +:+   +:+  :+:+:+  +:+   </text>
+      <text x="0" y="45">   +#++:++#:  +#+    +:+ +#++:++#++: +#+ +:+ +#+    </text>
+      <text x="0" y="60">  +#+    +#+ +#+    +#+ +#+     +#+ +#+  +#+#+#     </text>
+      <text x="0" y="75"> #+#    #+# #+#    #+# #+#     #+# #+#   #+#+#      </text>
+      <text x="0" y="90">###    ###  ########  ###     ### ###    ####       </text>
+      <animate attributeName="opacity" values="0.8;1;0.8" dur="4s" repeatCount="indefinite" />
+    </g>
+
+    <!-- Identity text -->
+    <text x="40" y="270" fill="#F8FAFC" font-family="sans-serif" font-size="24" font-weight="bold" letter-spacing="2">[ ENGINEERING ]</text>
+    <text x="40" y="310" fill="#7C3AED" font-family="sans-serif" font-size="18" font-weight="bold">Desenvolvedor Front-end</text>
+    <text x="40" y="340" fill="#94A3B8" font-family="sans-serif" font-size="14">Arquiteturas Escaláveis & MFEs</text>
+
+    <text x="40" y="480" fill="#10B981" font-family="monospace" font-size="14">~/profile $ build --ship<tspan fill="#F8FAFC">_</tspan>
+       <animate attributeName="opacity" values="1;0;1" dur="1.2s" repeatCount="indefinite" />
+    </text>
+  </g>
+
+  <!-- RIGHT PANEL (System Info) -->
+  <g transform="translate(480, 40)">
+    <rect width="660" height="530" fill="#0F172A" fill-opacity="0.35" stroke="#FFFFFF" stroke-opacity="0.05" rx="16" filter="url(#glass)" />
+    
+    <text x="40" y="45" fill="#94A3B8" font-family="monospace" font-size="12" letter-spacing="2">SYSTEM.INFO</text>
+    <line x1="40" y1="65" x2="620" y2="65" stroke="#FFFFFF" stroke-opacity="0.1" />
+
+    <text x="40" y="100" fill="#10B981" font-family="monospace" font-size="15">ruan@developer:~$ ./profile.sh</text>
+
+    <g transform="translate(40, 150)" font-family="monospace" font-size="16">
+      <text x="0" y="0" fill="#7C3AED">> NAME</text>
+      <text x="140" y="0" fill="#F8FAFC" font-weight="bold">Ruan C. Rodrigues</text>
+      
+      <text x="0" y="40" fill="#7C3AED">> ROLE</text>
+      <text x="140" y="40" fill="#F8FAFC">Engenheiro de Software Front-end</text>
+      
+      <text x="0" y="80" fill="#7C3AED">> PREV</text>
+      <text x="140" y="80" fill="#94A3B8">Itaú Unibanco (2023 - 2026)</text>
+      
+      <text x="0" y="120" fill="#7C3AED">> LOCATION</text>
+      <text x="140" y="120" fill="#94A3B8">São Paulo, SP, Brasil</text>
+      
+      <text x="0" y="160" fill="#7C3AED">> EXPERIENCE</text>
+      <text x="140" y="160" fill="#F8FAFC">3+ Anos</text>
+      
+      <text x="0" y="200" fill="#7C3AED">> FOCUS</text>
+      <text x="140" y="200" fill="#22D3EE">Micro Frontends, Arquitetura UI, SSR, APIs</text>
+      
+      <text x="0" y="240" fill="#7C3AED">> STACK</text>
+      <text x="140" y="240" fill="#F8FAFC">React, Next.js, Angular, TypeScript, Jest</text>
+      
+      <text x="0" y="280" fill="#7C3AED">> BUILDING</text>
+      <text x="140" y="280" fill="#F8FAFC">Sistemas Financeiros Escaláveis & Automação</text>
+    </g>
+
+    <!-- Pills Grid -->
+    <g transform="translate(40, 460)" font-family="sans-serif" font-size="12" font-weight="bold">
+      <rect x="0" y="0" width="105" height="30" rx="15" fill="#7C3AED" fill-opacity="0.2" stroke="#7C3AED" stroke-opacity="0.5" />
+      <text x="52" y="19" fill="#F8FAFC" text-anchor="middle">React/Next.js</text>
+      
+      <rect x="115" y="0" width="75" height="30" rx="15" fill="#22D3EE" fill-opacity="0.2" stroke="#22D3EE" stroke-opacity="0.5" />
+      <text x="152" y="19" fill="#F8FAFC" text-anchor="middle">Angular</text>
+      
+      <rect x="200" y="0" width="95" height="30" rx="15" fill="#10B981" fill-opacity="0.2" stroke="#10B981" stroke-opacity="0.5" />
+      <text x="247" y="19" fill="#F8FAFC" text-anchor="middle">TypeScript</text>
+      
+      <rect x="305" y="0" width="125" height="30" rx="15" fill="#F59E0B" fill-opacity="0.2" stroke="#F59E0B" stroke-opacity="0.5" />
+      <text x="367" y="19" fill="#F8FAFC" text-anchor="middle">Micro Frontends</text>
+      
+      <rect x="440" y="0" width="60" height="30" rx="15" fill="#EF4444" fill-opacity="0.2" stroke="#EF4444" stroke-opacity="0.5" />
+      <text x="470" y="19" fill="#F8FAFC" text-anchor="middle">Jest</text>
+    </g>
+  </g>
+</svg>

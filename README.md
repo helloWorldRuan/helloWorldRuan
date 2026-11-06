@@ -1,54 +1,71 @@
-<div align="center">
-  <h1>Olá, eu sou Ruan C. Rodrigues! 👋</h1>
-  <h3>Engenheiro de Software Front-end (React | Next.js | Angular)</h3>
-</div>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./light.svg">
+    <img alt="Ruan C. Rodrigues - Professional Engineer Profile" src="./dark.svg">
+  </picture>
+</p>
+
+Hi, I'm Ruan C. Rodrigues. I build scalable front-end systems, automation workflows, and production web applications for the financial market. My engineering focus sits at the intersection of robust UI architecture, Micro Frontends (MFEs), TypeScript, and high-performance React/Angular environments.
+
+**[LinkedIn](https://www.linkedin.com/in/ruan-c-rodrigues-9b3276236/)** · **[Email](mailto:ruancarlosro@hotmail.com)** 
 
 <br/>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/ruan-c-rodrigues-9b3276236/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:ruancarlosro@hotmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-</div>
+### ⚙️ Engenharia e Arquitetura Front-end
+— **Ecossistema UI** — React, Next.js, Angular e arquitetura de componentes.
+— **Micro Frontends (MFEs)** — Arquiteturas distribuídas, Single-SPA, NGRX e integração de APIs.
+— **Qualidade & Performance** — Jest, Datadog (Observabilidade), Server-Side Rendering (SSR) e Clean Code.
+— **Automação** — Redução de SLAs operacionais orquestrados via Power Automate e Microsoft Teams.
 
 <br/>
 
-## 👨‍💻 Sobre mim
-- 🏢 **Engenheiro de Software Front-end** com sólida bagagem na engenharia de aplicações do **mercado financeiro** (Itaú Unibanco).
-- ⚙️ Especialista no ecossistema **React, Next.js e Angular**, atuando na construção de arquiteturas escaláveis e **Micro Frontends (MFEs)**.
-- 🚀 Focado em performance (SSR), integração de APIs complexas e **qualidade de código** (testes automatizados com Jest e Clean Code).
+### 💼 Experiência
+**Engenheiro de Software JR — Itaú Unibanco** 
+`Ago 2023 - Nov 2026`
+Trabalhei na engenharia de software de produtos financeiros e BackOffice. Orquestrei ecossistemas baseados em Micro Frontends (MFEs) escaláveis. Idealizei soluções de automação no Teams que reduziram o SLA de aprovação de crédito de 1h49 para menos de 10 minutos (redução de 90%). Garanti a resiliência do código com testes unitários (Jest), Code Review e consumo de APIs complexas.
 
----
+<br/>
 
-## 🛠️ Tecnologias e Ferramentas
+### 🚀 Projetos em Destaque
 
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,angular,tailwind,jest,aws,git,figma&theme=dark" alt="Minha Stack" />
-  </a>
-</div>
+🔥 **Bubbles — Rede Social de Opiniões**
+Aplicação Full-stack focada em promover a pluralidade de ideias.
+* Chat dinâmico em tempo real estruturado via **WebSocket**.
+* Integração de APIs de transcrição e UI responsiva.
+* `React` · `Next.js` · `TailwindCSS` · `Spring Boot`
 
----
+⚡ **CERES — Telemetria Agrícola (IoT)**
+Sistema em tempo real para controle climático de armazenamentos e silos agrícolas.
+* Coleta de dados físicos via sensores Arduino.
+* Dashboard web em tempo real para visualização e acompanhamento.
+* `JavaScript Vanilla` · `MySQL` · `IoT`
 
-## 📊 Estatísticas do GitHub
+📈 **BitBox — Otimização de Performance**
+Solução corporativa mitigadora de gargalos em estações de trabalho de baixa capacidade.
+* Extensão autônoma para Chrome com gestão de memória e encerramento de processos inativos.
+* Captura de logs e métricas de desempenho.
+* `Java` · `Browser Extensions` · `Web Dashboard`
+
+<br/>
+
+### 📊 Atividade e Estatísticas
 
 <div align="center">
   <a href="https://github.com/helloWorldRuan">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=helloWorldRuan&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br" alt="Estatísticas do Ruan"/>
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helloWorldRuan&layout=compact&langs_count=6&theme=dracula" alt="Top Linguagens"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=helloWorldRuan&show_icons=true&theme=dracula&locale=pt-br&hide_border=true&bg_color=0D1117" alt="Estatísticas do Ruan"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helloWorldRuan&layout=compact&langs_count=6&theme=dracula&hide_border=true&bg_color=0D1117" alt="Top Linguagens"/>
   </a>
 </div>
 
 <br/>
 
-<div align="center">
-  <!-- Animação Snake Contributions -->
+<h3 align="center">🐍 Mapa de Contribuições</h3>
+
+<p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/helloWorldRuan/helloWorldRuan/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/helloWorldRuan/helloWorldRuan/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/helloWorldRuan/helloWorldRuan/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/helloWorldRuan/github-snake/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/helloWorldRuan/github-snake/output/github-snake.svg"/>
+    <img src="https://raw.githubusercontent.com/helloWorldRuan/github-snake/output/github-snake.svg" alt="GitHub Contribution Snake" width="100%"/>
   </picture>
-</div>
+</p>

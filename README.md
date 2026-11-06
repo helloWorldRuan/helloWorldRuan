@@ -1,34 +1,67 @@
-### Fala Devs 👩‍💻, me chamo Ruan!
-
-## 💻Tecnologia e Ferramentas:
-<div style="display: flex; gap: 5rem;">
-  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
-  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
+<div align="center">
+  <h1>Olá, eu sou Ruan C. Rodrigues! 👋</h1>
+  <h3>Engenheiro de Software Front-end (React | Next.js | Angular)</h3>
 </div>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<br/>
 
-## 🔎 Aprendendo
-<div style="display: flex; gap: 2rem;">
-<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
-<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />    
-  
-## 📩 Contatos:
-<div>
-<a href = "mailto:contato@carlosruanro@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/ruan-c-rodrigues-9b3276236/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<div align="center">
+  <a href="https://www.linkedin.com/in/ruan-c-rodrigues-9b3276236/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:ruancarlosro@hotmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
 </div>
-  
-## 📊 Estatísticas:
+
+<br/>
+
+## 👨‍💻 Sobre mim
+
+- 🏢 **Engenheiro de Software Front-end** com sólida bagagem na engenharia de aplicações do **mercado financeiro** (Itaú Unibanco).
+- ⚙️ Especialista no ecossistema **React, Next.js e Angular**, atuando na construção de arquiteturas escaláveis e **Micro Frontends (MFEs)**.
+- 🚀 Focado em performance (SSR), integração de APIs complexas e **qualidade de código** (testes automatizados com Jest e Clean Code).
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+### 💻 Front-end & Linguagens
+<div style="display: flex; gap: 15px; margin-top: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript" title="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="45" height="45" alt="React" title="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45" height="45" alt="Next.js" title="Next.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="45" height="45" alt="Angular" title="Angular"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45" alt="Tailwind CSS" title="Tailwind CSS"/>
+</div>
+
+### ⚙️ Arquitetura, Cloud & Ferramentas
+<div style="display: flex; gap: 15px; margin-top: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="45" height="45" alt="Jest" title="Jest"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45" height="45" alt="AWS" title="AWS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" height="45" alt="Figma" title="Figma"/>
+</div>
+
+---
+
+## 📊 Estatísticas do GitHub
+
 <div align="center">
   <a href="https://github.com/helloWorldRuan">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helloWorldRuan&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=helloWorldRuan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=helloWorldRuan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do Ruan"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helloWorldRuan&layout=compact&langs_count=6&theme=dracula" alt="Top Linguagens"/>
+  </a>
 </div>
 
-![Snake animation](https://github.com/leobr1t0/leobr1t0/blob/output/github-contribution-grid-snake.svg)
+<br/>
+
+<div align="center">
+  <!-- Animação Snake Contributions -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/helloWorldRuan/helloWorldRuan/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/helloWorldRuan/helloWorldRuan/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/helloWorldRuan/helloWorldRuan/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>

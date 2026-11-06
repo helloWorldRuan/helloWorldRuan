@@ -46,6 +46,6 @@ Solução corporativa mitigadora de gargalos em estações de trabalho de baixa 
 
 ### 📊 Estatísticas do GitHub
 
-<div align="center">
+<div>
   <img src="https://gh-readme-profile.vercel.app/api?username=helloWorldRuan&hide=forks,prs_merged,issues,contributed" alt="Estatísticas do Ruan">
 </div>

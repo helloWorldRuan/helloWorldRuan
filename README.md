@@ -1,14 +1,14 @@
 <p align="center">
- <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/helloWorldRuan/helloWorldRuan/main/dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/helloWorldRuan/helloWorldRuan/main/light.svg">
-    <img alt="Ruan C. Rodrigues - Professional Engineer Profile" src="https://raw.githubusercontent.com/helloWorldRuan/helloWorldRuan/main/dark.svg" width="100%">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/helloWorldRuan/helloWorldRuan/blob/main/dark.svg?raw=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/helloWorldRuan/helloWorldRuan/blob/main/light.svg?raw=true">
+    <img alt="Ruan C. Rodrigues - Perfil de Engenharia Profissional" src="https://github.com/helloWorldRuan/helloWorldRuan/blob/main/dark.svg?raw=true" width="100%">
   </picture>
 </p>
 
-Hi, I'm Ruan C. Rodrigues. I build scalable front-end systems, automation workflows, and production web applications for the financial market. My engineering focus sits at the intersection of robust UI architecture, Micro Frontends (MFEs), TypeScript, and high-performance React/Angular environments.
+Olá, sou Ruan C. Rodrigues. Desenvolvo sistemas front-end escaláveis, fluxos de automação e aplicações web de produção para o mercado financeiro. Meu foco de engenharia está na interseção entre arquitetura robusta de UI, Micro Frontends (MFEs), TypeScript e ambientes de alta performance com React e Angular.
 
-**[LinkedIn](https://www.linkedin.com/in/ruan-c-rodrigues-9b3276236/)** · **[Email](mailto:ruancarlosro@hotmail.com)** 
+**[LinkedIn](https://www.linkedin.com/in/ruan-c-rodrigues-9b3276236/)** · **[E-mail](mailto:ruancarlosro@hotmail.com)** 
 
 <br/>
 
@@ -23,7 +23,7 @@ Hi, I'm Ruan C. Rodrigues. I build scalable front-end systems, automation workfl
 ### 💼 Experiência
 **Engenheiro de Software JR — Itaú Unibanco** 
 `Ago 2023 - Nov 2026`
-Trabalhei na engenharia de software de produtos financeiros e BackOffice. Orquestrei ecossistemas baseados em Micro Frontends (MFEs) escaláveis. Idealizei soluções de automação no Teams que reduziram o SLA de aprovação de crédito de 1h49 para menos de 10 minutos (redução de 90%). Garanti a resiliência do código com testes unitários (Jest), Code Review e consumo de APIs complexas.
+Atuei na engenharia de software de produtos financeiros e BackOffice. Orquestrei ecossistemas baseados em Micro Frontends (MFEs) escaláveis. Idealizei soluções de automação no Teams que reduziram o SLA de aprovação de crédito de 1h49 para menos de 10 minutos (redução superior a 90%). Garanti a resiliência do código com testes unitários (Jest), Code Review e consumo de APIs complexas.
 
 <br/>
 
@@ -66,6 +66,6 @@ Solução corporativa mitigadora de gargalos em estações de trabalho de baixa 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/helloWorldRuan/github-snake/output/github-snake-dark.svg"/>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/helloWorldRuan/github-snake/output/github-snake.svg"/>
-    <img src="https://raw.githubusercontent.com/helloWorldRuan/github-snake/output/github-snake.svg" alt="GitHub Contribution Snake" width="100%"/>
+    <img src="https://raw.githubusercontent.com/helloWorldRuan/github-snake/output/github-snake.svg" alt="Cobrinha de Contribuições do GitHub" width="100%"/>
   </picture>
 </p>

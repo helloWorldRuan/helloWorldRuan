@@ -1,7 +1,6 @@
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./dark.svg">
+ 
   <img alt="Ruan C. Rodrigues - Perfil de Engenharia" src="./dark.svg">
 </picture>
 </p>
